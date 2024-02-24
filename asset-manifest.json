@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShrutisJourney/static/css/main.0462c178.css",
+    "main.js": "/ShrutisJourney/static/js/main.e6226d3b.js",
+    "static/js/453.ed3810f9.chunk.js": "/ShrutisJourney/static/js/453.ed3810f9.chunk.js",
+    "static/media/certificate.pdf": "/ShrutisJourney/static/media/certificate.b4349f3c58bfcfc39c1e.pdf",
+    "static/media/mypic.png": "/ShrutisJourney/static/media/mypic.4ab1c6358772c8a67e1b.png",
+    "static/media/onthisday.jpeg": "/ShrutisJourney/static/media/onthisday.ba12c4ffc9a8010cb763.jpeg",
+    "static/media/portfolio.jpg": "/ShrutisJourney/static/media/portfolio.3f34d46660a90c941840.jpg",
+    "static/media/moviereview.jpg": "/ShrutisJourney/static/media/moviereview.1130b13e12a44d133876.jpg",
+    "static/media/sqlinjection.jpg": "/ShrutisJourney/static/media/sqlinjection.b9125752b743fade5dcf.jpg",
+    "static/media/audioendec.png": "/ShrutisJourney/static/media/audioendec.e1d8e024276d03a3c19e.png",
+    "index.html": "/ShrutisJourney/index.html",
+    "main.0462c178.css.map": "/ShrutisJourney/static/css/main.0462c178.css.map",
+    "main.e6226d3b.js.map": "/ShrutisJourney/static/js/main.e6226d3b.js.map",
+    "453.ed3810f9.chunk.js.map": "/ShrutisJourney/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0462c178.css",
+    "static/js/main.e6226d3b.js"
+  ]
+}
