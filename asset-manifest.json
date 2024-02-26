@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ShrutisJourney/static/css/main.0462c178.css",
-    "main.js": "/ShrutisJourney/static/js/main.08819762.js",
+    "main.css": "/ShrutisJourney/static/css/main.0618e170.css",
+    "main.js": "/ShrutisJourney/static/js/main.5a952a70.js",
     "static/js/453.ed3810f9.chunk.js": "/ShrutisJourney/static/js/453.ed3810f9.chunk.js",
     "static/media/certificate.pdf": "/ShrutisJourney/static/media/certificate.b4349f3c58bfcfc39c1e.pdf",
     "static/media/mypic.png": "/ShrutisJourney/static/media/mypic.4ab1c6358772c8a67e1b.png",
@@ -11,12 +11,12 @@
     "static/media/sqlinjection.jpg": "/ShrutisJourney/static/media/sqlinjection.b9125752b743fade5dcf.jpg",
     "static/media/audioendec.png": "/ShrutisJourney/static/media/audioendec.e1d8e024276d03a3c19e.png",
     "index.html": "/ShrutisJourney/index.html",
-    "main.0462c178.css.map": "/ShrutisJourney/static/css/main.0462c178.css.map",
-    "main.08819762.js.map": "/ShrutisJourney/static/js/main.08819762.js.map",
+    "main.0618e170.css.map": "/ShrutisJourney/static/css/main.0618e170.css.map",
+    "main.5a952a70.js.map": "/ShrutisJourney/static/js/main.5a952a70.js.map",
     "453.ed3810f9.chunk.js.map": "/ShrutisJourney/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0462c178.css",
-    "static/js/main.08819762.js"
+    "static/css/main.0618e170.css",
+    "static/js/main.5a952a70.js"
   ]
 }
