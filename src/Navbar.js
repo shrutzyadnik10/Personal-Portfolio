@@ -79,9 +79,9 @@ function Navbar() {
                     <a  onClick={handleMenuItemClick} href="#home">home</a>
                     <a  onClick={handleMenuItemClick} href="#about">about</a>
                     <a  onClick={handleMenuItemClick} href="#experience">experience</a>
-                    <a  onClick={handleMenuItemClick} href="#interest">interest</a>
                     <a  onClick={handleMenuItemClick} href="#education">education</a>
                     <a  onClick={handleMenuItemClick} href="#project">projects</a>
+                    <a  onClick={handleMenuItemClick} href="#interest">interest</a>
                     <a  onClick={handleMenuItemClick} href="#contact">contact</a>
                 </nav>
 
