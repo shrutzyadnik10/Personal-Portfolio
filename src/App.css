@@ -632,6 +632,12 @@ header .follow a:hover {
     margin-bottom: 1.5rem;
 }
 
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 2px; /* Add margin to separate error messages from input fields */
+  }
+
 .footer {
     margin-top: 2rem;
     font-size: 2rem;
@@ -644,14 +650,6 @@ header .follow a:hover {
 .footer span {
     color: var(--main-color);
 }
-
-
-
-
-
-
-
-
 
 
 
